@@ -11,8 +11,10 @@
         <h1>PandemicOnline</h1>
         <form action="login.php" method="get">
             <input type="submit" value="Sign in">
+        </form>   
         <form action="register.php" method="get">
             <input type="submit" value="Sign up">
+        </form>
     </body>
 
 </html>

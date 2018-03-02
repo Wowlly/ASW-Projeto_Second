@@ -8,7 +8,7 @@
     <body>
 
         <h1>Pandemic</h1>
-        <form action="home.php">
+        <form action="home.php" action="post">
             <fieldset>
             <legend>Login:</legend>
                 Username:<br>
